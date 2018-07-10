@@ -1,6 +1,9 @@
-# Angular6Customers
+# Lazy Loading
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+This project is created for performing experiments on lazy loading feature in Angular.
+
+## Angular Version
+v6.0
 
 ## Development server
 
